@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name"viewport"content="width=device-width,
+  initial-scale=1.0">
+  <title>Curriculum Vitae</title>
+  <link rel="stylesheet"
+    href="style.css">
+</head>
+<body>
+  <header>
+    <h1>Annelisse Garcia</h1>
+    <p>Desarrolladora Wed I
+    Programadora</p>
+  </header>
+  <section>
+    <h2>Informacion Personal<h2>
+      <ul>
+        <li>Email: vanealcantara1208@gmail.com</li>
+        <li>Telefono: +502 4123 2735</li>
+        <li>Linkedln: <a
+href="https://linkedin.com/in
+/annelissegarcia">linkedin.com/in/annelissegarcia</a></li>
+      </ul>
+  </section>
+      <section>
+        <h2>Experiencia</h2>
+ <ul>
+          <li>Desarrolladora Wed en Empresa
+          XYZ (2024</li>
+      </section>
+</body>
